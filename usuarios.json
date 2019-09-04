@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "name": "pablo",
+            "email": "pablo.vt@hotmail.com.ar",
+            "username": "pablovt",
+            "intereses": [
+                "1"
+            ],
+            "edad": "32",
+            "pais": "0",
+            "gen": "v",
+            "password": "781397bc0630d47ab531ea850bddcf63"
+        },
+        {
+            "name": "pablovrrr",
+            "email": "pablo.vt@hol.com",
+            "username": "pablovts",
+            "intereses": [
+                "1"
+            ],
+            "edad": "32",
+            "pais": "0",
+            "gen": "v",
+            "password": "81dc9bdb52d04dc20036dbd8313ed055"
+        }
+    ]
+}

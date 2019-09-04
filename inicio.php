@@ -19,7 +19,7 @@
 
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#"></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
@@ -44,19 +44,19 @@
     </section>
     </div>
 
-<div class="container">
+<div class="container-1">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>observa mas de lo que la vista y la razon te puede dar!!!</h3>
+      <p>tu mente es el futuro.</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>busca una realidad diferente!! desconocida... </h3>
+      <p>sumate a nuestra propuesta .</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>utiliza el 40 % de tu cerebro </h3>
+      <p>mirada de agila, reflejo de pantera, corazon de leon!!.</p>
     </div>
   </div>
 </div>

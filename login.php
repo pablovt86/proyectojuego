@@ -28,13 +28,13 @@
  <div class="collapse navbar-collapse" id="collapsibleNavbar">
  <ul class="navbar-nav">
      <li class="nav-item">
-       <a class="nav-link" href="#">Link</a>
+       <a class="nav-link" href="#"><h4>Link</h4></a>
      </li>
      <li class="nav-item">
-       <a class="nav-link" href="#">Link</a>
+       <a class="nav-link" href="#"><h4>Link</h4></a>
      </li>
      <li class="nav-item">
-       <a class="nav-link disabled" href="#">Disabled</a>
+       <a class="nav-link disabled" href="#"><h4>Disabled</h4></a>
      </li>
    </ul>
  </nav>
