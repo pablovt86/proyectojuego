@@ -19,13 +19,13 @@
 
 
           <li class="nav-item">
-            <a class="nav-link" href="#"></a>
+            <a class="nav-link" href="#">Registrate</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">trabaja con nosotros</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
+            <a class="nav-link disabled" href="#">ve a nuestro juegos</a>
           </li>
         </ul>
       </nav>
@@ -42,10 +42,12 @@
 
       </article>
     </section>
-    </div>
+    
 
-<div class="container-1">
+<div class="container">
+<div class="fondo2">
   <div class="row">
+
     <div class="col-sm-4">
       <h3>observa mas de lo que la vista y la razon te puede dar!!!</h3>
       <p>tu mente es el futuro.</p>
@@ -58,9 +60,13 @@
       <h3>utiliza el 40 % de tu cerebro </h3>
       <p>mirada de agila, reflejo de pantera, corazon de leon!!.</p>
     </div>
+
+
   </div>
+  </div>
+
 </div>
-</div>  <section class="row">
+  <section class="row">
       <article class="col-12 col-mb-6 col-lg-4 mx-auto mb-2">
         <h3 class="text-center">contact me</h3>
         <div class="col-sm-12 mx-auto">
@@ -98,11 +104,11 @@
 
        <div class="col-4 sm-6 mr-2">
      <h1 >location</h1>
-     <p>john  daniel drive</p>
-     <p>clark MO,65243</p>
+     <p>casa del futuro</p>
+     <p>jose maria moreno 3745</p>
    </div>
      <div class="col-4 sm-6 mx-auto ">
-      <h1 >around the Web</h1>
+      <h1 >siguenos en nuestra redes</h1>
      <ion-icon name="logo-facebook"></ion-icon>
      <ion-icon name="logo-googleplus"></ion-icon>
      <ion-icon name="logo-twitter"></ion-icon>
@@ -110,10 +116,9 @@
      <ion-icon name="logo-dribbble"></ion-icon>
    </div>
       <div class="col-4 sm-6 mr-2">
-     <h1 >About freelancer</h1>
-     <p>freelance is free and open source</p>
-     <p>landing page theme created to<strong class="color">your free
-     personal use.</strong></p>
+     <h1 >juegos locales y nacionales</h1>
+     <p>ver nuestro catalogo de variades</p>
+     <p>crea tus fantasia mas animadas que puedas dar<strong class="color">juegos free juegos 3d</strong></p>
   </div>
 
 
