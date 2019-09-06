@@ -1,0 +1,11 @@
+.images{
+width: 350px;
+}
+.container_image{
+  display: flex;
+  justify-content: center;
+}
+.container_word{
+  display: flex;
+  justify-content: center;
+}
