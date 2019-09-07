@@ -81,17 +81,37 @@ ion-icon {
      color:green;
 }
 }
-ul{
+ ul{
   list-style: none;
 }
 .navbar-toggler{
   text-align: center;
 }
 
+/* de aca para abajo el juego de ema*/*
+
+.container_image{
+  display: flex;
+  justify-content: center;
+}
+.container_word{
+  display: flex;
+  justify-content: center;
+}
+
+}
+.footer{
+  background-color:grey;
+}
 
 
 
-/**
+
+
+
+
+
+/**-_-____---_-_-_------------_---
 
 // esto para abajo es el login
 

@@ -4,12 +4,13 @@
     <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
   </head>
    <link rel="stylesheet"   href="css/styles.css">
    <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel = " stylesheet "  href = " https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css " >
+
   <body>
     <header class="inicio">
       <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -38,11 +39,11 @@
         <img class="mx-auto d-block" src="css/dectective.jpg" alt="">
         <h1 class="text-center">queres ver para que nacistes??</h1>
         <p class="text-center">queres saber los principios de tu conococimiento?? </p>
-        <div class=" animated infinite pulse  mx-auto d-block boton"><a href="#">oprime</a></div>
+        <div class="animated infinite bounce mx-auto d-block boton"><a href="#">oprime</a></div>
 
       </article>
     </section>
-    
+
 
 <div class="container">
 <div class="fondo2">

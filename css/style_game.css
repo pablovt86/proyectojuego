@@ -1,6 +1,10 @@
-.images{
-width: 350px;
+
+
+body{
+  font-size: 12px;
+  background-color: black;
 }
+
 .container_image{
   display: flex;
   justify-content: center;
@@ -8,4 +12,13 @@ width: 350px;
 .container_word{
   display: flex;
   justify-content: center;
+}
+.nav ul{
+  list-style: none;
+}
+li{
+  list-style: none;
+}
+.footer{
+  background-color:grey;
 }
