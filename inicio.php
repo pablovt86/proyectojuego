@@ -48,7 +48,7 @@
           <div class="col-sm-4">
             <img class=" animated infinite jello  mx-auto d-block " src="images/4-fotos-1-palabra.png " alt="">
 
-            <div class="animated infinite bounce mx-auto d-block boton"><a href="http://localhost/PHP/proyecto/login.php"><h4>ve al juego</h4></a></div>
+            <div class="animated infinite bounce mx-auto d-block boton"><a href="login.php"><h4>ve al juego</h4></a></div>
 
           </div>
           <div class="col-sm-4">

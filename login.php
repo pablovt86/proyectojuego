@@ -25,7 +25,7 @@
 <ul>
 
           <li class="nav-item">
-            <a class="nav-link" href="http://localhost/PHP/proyecto/register.php">Registrate</a>
+            <a class="nav-link" href="register.php">Registrate</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">trabaja con nosotros</a>
