@@ -13,33 +13,32 @@
  <!-- Temas-->
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
  <!-- se vincula al hoja de estilo para definir el aspecto del formulario de login-->
- <link rel="stylesheet" type="text/css" href="css/styles.css">
+ <link rel="stylesheet" type="text/css" href="css/estilo.css">
    <link rel = " stylesheet "  href = " https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css " >
  		</head>
 
+    <header class="inicio">
+      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+     <a class="navbar-brand" href="#">
+      <img src=" images/4-fotos-1-palabra.png" alt="Logo" style="width:40px;">
+    </a>
+<ul>
 
-
-
-     <header class="inicio">
- <nav class="navbar navbar-expand-md bg-dark navbar-dark ">
- <a class="navbar-brand" href="#">
- <img src="images/dectective.jpg" alt="Logo" style="width:40px;">
- </a>
- <div class="collapse navbar-collapse" id="collapsibleNavbar">
- <ul class="navbar-nav">
-     <li class="nav-item">
-       <a class="nav-link" href="#"><h4>Link</h4></a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link" href="#"><h4>Link</h4></a>
-     </li>
-     <li class="nav-item">
-       <a class="nav-link disabled" href="#"><h4>Disabled</h4></a>
-     </li>
-   </ul>
- </nav>
- </header>
+          <li class="nav-item">
+            <a class="nav-link" href="http://localhost/PHP/proyecto/register.php">Registrate</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">trabaja con nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#">ve a nuestro juegos</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
  		<body>
+
+<main class="container-fluid">
 
 
  		 <div id="Contenedor">
@@ -60,10 +59,12 @@
  				</div>
  				<br>
  				<button class="btn btn-lg btn-primary btn-block btn-signin" id="IngresoLog" type="submit">Entrar</button>
- 				<div class="opcioncontra"><a href="">Olvidaste tu contraseña?</a></div>
+ 				<div class="opcioncontra"><a href="http://localhost/PHP/proyecto/register.php">Olvidaste tu contraseña?</a></div>
  		 	</form>
  		 </div>
+
  		 </div>
+     </main>
  </body>
   <!-- vinculando a libreria Jquery-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

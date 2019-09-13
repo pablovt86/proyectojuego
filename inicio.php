@@ -20,13 +20,19 @@
 
 
           <li class="nav-item">
-            <a class="nav-link" href="http://localhost/PHP/proyecto/register.php">Registrate</a>
+            <a class="nav-link" href="#">arcade</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">trabaja con nosotros</a>
+            <a class="nav-link" href="#">multijuegos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">ve a nuestro juegos</a>
+            <a class="nav-link" href="#">demos de juegos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">nultiplayer</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link " href="#">juegos en 3d</a>
           </li>
         </ul>
       </nav>
@@ -35,35 +41,24 @@
       <div class="fondo1">
     <section class="row">
 
-      <article class="col-12 ">
-        <img class=" animated infinite jello  mx-auto d-block " src="images/4-fotos-1-palabra.png " alt="">
+          <div class="col-sm-4">
+            <h1>la calidad de nuestros juego lo puedes ver por el efecto de su diferentes dimesionadidades</h1>
+            <p>tu mente es el futuro.</p>
+          </div>
+          <div class="col-sm-4">
+            <img class=" animated infinite jello  mx-auto d-block " src="images/4-fotos-1-palabra.png " alt="">
 
-        <div class="animated infinite bounce mx-auto d-block boton"><a href="#">oprime</a></div>
+            <div class="animated infinite bounce mx-auto d-block boton"><a href="http://localhost/PHP/proyecto/login.php"><h4>ve al juego</h4></a></div>
 
-      </article>
+          </div>
+          <div class="col-sm-4">
+            <h1>nuestro catalogo con mas 200 juegos en   </h1>
+            <p>mirada de agila, reflejo de pantera, corazon de leon!!.</p>
+          </div>
+
+      
     </section>
 
-
-<div class="container">
-<div class="fondo2">
-  <div class="row">
-
-    <div class="col-sm-4">
-      <h3>observa mas de lo que la vista y la razon te puede dar!!!</h3>
-      <p>tu mente es el futuro.</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>busca una realidad diferente!! desconocida... </h3>
-      <p>sumate a nuestra propuesta .</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>utiliza el 40 % de tu cerebro </h3>
-      <p>mirada de agila, reflejo de pantera, corazon de leon!!.</p>
-    </div>
-
-
-  </div>
-  </div>
 
 </div>
   <section class="row">
