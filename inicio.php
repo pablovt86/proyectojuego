@@ -15,12 +15,12 @@
     <header class="inicio">
       <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <a class="navbar-brand" href="#">
-      <img src=" images/dectective.jpg" alt="Logo" style="width:40px;">
+      <img src=" images/4-fotos-1-palabra.png" alt="Logo" style="width:40px;">
     </a>
 
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Registrate</a>
+            <a class="nav-link" href="http://localhost/PHP/proyecto/register.php">Registrate</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">trabaja con nosotros</a>
@@ -36,9 +36,8 @@
     <section class="row">
 
       <article class="col-12 ">
-        <img class="mx-auto d-block" src="css/dectective.jpg" alt="">
-        <h1 class="text-center">queres ver para que nacistes??</h1>
-        <p class="text-center">queres saber los principios de tu conococimiento?? </p>
+        <img class="mx-auto d-block" src="images/4-fotos-1-palabra.png" alt="">
+      
         <div class="animated infinite bounce mx-auto d-block boton"><a href="#">oprime</a></div>
 
       </article>
