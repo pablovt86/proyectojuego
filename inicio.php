@@ -6,7 +6,7 @@
     <title></title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
   </head>
-   <link rel="stylesheet"   href="css/styles.css">
+   <link rel="stylesheet"   href="css/estilo.css">
    <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -36,8 +36,8 @@
     <section class="row">
 
       <article class="col-12 ">
-        <img class="mx-auto d-block" src="images/4-fotos-1-palabra.png" alt="">
-      
+        <img class=" animated infinite jello  mx-auto d-block " src="images/4-fotos-1-palabra.png " alt="">
+
         <div class="animated infinite bounce mx-auto d-block boton"><a href="#">oprime</a></div>
 
       </article>
